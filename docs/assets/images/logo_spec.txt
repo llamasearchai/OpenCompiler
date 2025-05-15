@@ -1,0 +1,35 @@
+# OpenCompiler Logo Specification
+
+The OpenCompiler logo should be designed with the following elements:
+
+## Design Elements
+- Modern, minimalist style
+- Combination of a CPU chip and compiler elements
+- Apple Silicon inspiration in the design
+- Color gradient from blue to purple (representing the spectrum from hardware to software)
+
+## Specific Elements
+- A stylized CPU/SoC with circuit-like patterns
+- Code brackets or compilation symbols integrated into the design
+- Optional: Small Apple-inspired element to represent Apple Silicon optimization focus
+
+## Typography
+- "OpenCompiler" in a modern, clean sans-serif font
+- Optional tagline: "ML Acceleration for Modern CPUs"
+
+## Color Palette
+- Primary: #4A6FFF (bright blue)
+- Secondary: #9D4AFF (purple)
+- Accent: #FF4A8D (pink, for Apple Silicon elements)
+- Neutral: #2D3748 (dark gray for text)
+
+## File Formats
+- SVG (vector format for scalability)
+- PNG with transparent background (300dpi, sizes: 512px, 256px, 128px)
+- Favicon sized version (32px)
+
+## Usage Contexts
+- GitHub repository
+- Documentation website 
+- Presentations and papers
+- Social media 
