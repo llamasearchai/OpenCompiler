@@ -53,7 +53,7 @@ OpenCompiler implements several Apple Silicon-specific optimizations:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/opencompiler.git
+git clone https://github.com/llamasearchai/opencompiler.git
 cd opencompiler
 
 # macOS quick install
@@ -179,7 +179,7 @@ If you use OpenCompiler in your research, please cite:
 @software{opencompiler2023,
   author = {OpenCompiler Team},
   title = {OpenCompiler: An ML Compiler Engineering Platform},
-  url = {https://github.com/yourusername/opencompiler},
+  url = {https://github.com/llamasearchai/opencompiler},
   version = {0.1.0},
   year = {2023},
 }

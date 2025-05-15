@@ -21,7 +21,7 @@ Refer to the `README.md` for detailed installation and setup instructions. Key s
 
 ```bash
 # 1. Clone the repository
-# git clone ...
+# git clone https://github.com/llamasearchai/opencompiler.git
 # cd opencompiler
 
 # 2. Install system dependencies (LLVM, MLIR, CMake, etc.)

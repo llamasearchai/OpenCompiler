@@ -2,10 +2,10 @@
 name = "opencompiler"
 version = "0.1.0"
 description = "OpenCompiler: An AI Compiler Engineering Platform for CPU-Optimized ML Workloads, with Apple Silicon support."
-authors = ["The OpenCompiler Team <contact@opencompiler.dev>"]
+authors = ["Nik Jois <nikjois@llamasearch.ai>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/yourusername/opencompiler"
+repository = "https://github.com/llamasearchai/opencompiler"
 keywords = ["compiler", "opencompiler", "mlir", "llvm", "pytorch", "jax", "onnx", "apple silicon", "m1", "m2", "m3"]
 classifiers = [
     "Development Status :: 3 - Alpha",

@@ -20,7 +20,7 @@ We provide a convenient script for macOS users that handles most dependencies an
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/opencompiler.git
+git clone https://github.com/llamasearchai/opencompiler.git
 cd opencompiler
 
 # Make the install script executable
@@ -40,7 +40,7 @@ The script will:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/opencompiler.git
+git clone https://github.com/llamasearchai/opencompiler.git
 cd opencompiler
 
 # Install system dependencies (Ubuntu/Debian example)
